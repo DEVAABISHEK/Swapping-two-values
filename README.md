@@ -29,11 +29,10 @@ a=b
 b=temp
 print("Swapped values are:",a,b)
 `````````
-## RESULT:
-Thus the swapping of two values are successfully executed.
 ## output:
 ![image](https://github.com/DEVAABISHEK/Swapping-two-values/assets/150319305/610a7aed-75f5-4766-bc3a-13873dedaa1c)
-
+## RESULT:
+Thus the swapping of two values are successfully executed.
 
 
 
